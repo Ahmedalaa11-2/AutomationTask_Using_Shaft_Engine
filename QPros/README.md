@@ -30,7 +30,8 @@
      - Assert Billing Details form displayed
 
    ### How to Run Scenarios:
-   - Firstly, you should add 'com.shaft.listener.TestNGListener' in TestNG in InteliJ configuraton, Here are the steps:
+   - Firstly, Clone the project using "git clone 'url of the project'.
+   - Then, you should add 'com.shaft.listener.TestNGListener' in TestNG in InteliJ configuraton, Here are the steps:
       - From the header Menu, Click on Run --> 'Edit configuration'
       - Click on Edit configuration Templates
       - Click on TestNG
