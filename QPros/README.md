@@ -1,7 +1,8 @@
 ## AutomationTaskFor E-commerce Website Using_Shaft_Engine
 
 ### About
--This project aims to automate E2E Testcase for E-Commerce website
+- This project aims to automate E2E Testcase for E-Commerce website
+- Link for Screenrecord successfull run : https://screenrec.com/share/zZ7OMHsCwQ
 
 ### Tools Used
 - This Framework has been built using SHAFT Engine with:
@@ -30,7 +31,8 @@
      - Assert Billing Details form displayed
 
    ### How to Run Scenarios:
-   - Firstly, you should add 'com.shaft.listener.TestNGListener' in TestNG in InteliJ configuraton, Here are the steps:
+   - Firstly, Clone the project using "git clone 'url of the project'.
+   - Then, you should add 'com.shaft.listener.TestNGListener' in TestNG in InteliJ configuraton, Here are the steps:
       - From the header Menu, Click on Run --> 'Edit configuration'
       - Click on Edit configuration Templates
       - Click on TestNG
